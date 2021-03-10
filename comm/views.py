@@ -16,8 +16,8 @@ def ig(request):
     tag = request.POST["tag"]
     rep = request.POST["re"]
 
-    #IGID='jacky70638'
-    #IGpassword='KACKY827058'
+    #IGID=''
+    #IGpassword=''
     browser = webdriver.Chrome()
     #ur='https://www.instagram.com/'
     #browser.get(ur)
