@@ -2,7 +2,7 @@
 ![1615379185290](https://user-images.githubusercontent.com/72694089/110635718-5f85d680-81e6-11eb-903d-d2996d7fe012.jpg)
 ![1615379169314](https://user-images.githubusercontent.com/72694089/110635734-64e32100-81e6-11eb-9535-61a580646132.jpg)
 IG抽獎
-連結:https://51a6bdebbc39.ngrok.io/
+連結:https://6b987528d342.ngrok.io
 
 ----------------------------------------------
 
